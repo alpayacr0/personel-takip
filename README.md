@@ -47,7 +47,13 @@ Uygulama bu ayrımı yansıtacak şekilde kurgulandı:
 
 ### Gelecek Planı
 
-Bu proje eğitim teslimi için bu şekilde kurgulanmış olsa da ileriye dönük gerçek bir kullanım hedeflenmektedir. Uygulamanın evdeki Raspberry Pi 4 üzerine kurulup kullanılması, deneme sürecindeki çalışanların belirli bir süre sonunda kalıcı kadroya aktarılması planlanmaktadır. Bu aktarma özelliği ve LocalStorage yerine kalıcı bir veritabanı kullanımı sonraki sürümlerde eklenecektir.
+Bu proje, Software Persona mesleki yeterlilik eğitimi kapsamında eğitim teslimi için bu şekilde kurgulanmıştır. İleriye dönük gerçek bir kullanım hedeflenmektedir ve uygulamayı evdeki Raspberry Pi 4 üzerine kurmayı planlıyorum.
+
+Sonraki aşamada proje, Node.js kullanan otomatik bir sisteme evrilecektir. Aynı eğitimde geliştirdiğim Node.js/Express tabanlı projedeki ([Görev ve Proje Yönetim Sistemi REST API](https://github.com/alpayacr0/task-management-api)) yaklaşım temel alınarak:
+
+- Veriler veritabanı yerine JSON dosyasında tutulmaya devam edecek,
+- Bir Node.js (Express) sunucusu bu JSON dosyasını okuyup yazacak,
+- Deneme sürecindeki çalışanlar, 2 aylık deneme süresi sonunda sunucu tarafından otomatik olarak kalıcı kadro JSON dosyasına aktarılacaktır.
 
 ## Özellikler
 
