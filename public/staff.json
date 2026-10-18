@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmet Yılmaz",
+    "title": "Mutfak Şefi",
+    "email": "ahmet.yilmaz@example.com",
+    "phone": "0532 111 22 01"
+  },
+  {
+    "id": 2,
+    "name": "Mehmet Kaya",
+    "title": "Aşçıbaşı",
+    "email": "mehmet.kaya@example.com",
+    "phone": "0532 111 22 02"
+  },
+  {
+    "id": 3,
+    "name": "Ayşe Demir",
+    "title": "Pastacı",
+    "email": "ayse.demir@example.com",
+    "phone": "0532 111 22 03"
+  },
+  {
+    "id": 4,
+    "name": "Mustafa Çelik",
+    "title": "Depo Sorumlusu",
+    "email": "mustafa.celik@example.com",
+    "phone": "0532 111 22 04"
+  },
+  {
+    "id": 5,
+    "name": "Fatma Şahin",
+    "title": "Hijyen Sorumlusu",
+    "email": "fatma.sahin@example.com",
+    "phone": "0532 111 22 05"
+  },
+  {
+    "id": 6,
+    "name": "Hasan Öztürk",
+    "title": "Şoför",
+    "email": "hasan.ozturk@example.com",
+    "phone": "0532 111 22 06"
+  },
+  {
+    "id": 7,
+    "name": "Zeynep Arslan",
+    "title": "Satın Alma Uzmanı",
+    "email": "zeynep.arslan@example.com",
+    "phone": "0532 111 22 07"
+  },
+  {
+    "id": 8,
+    "name": "Emre Doğan",
+    "title": "Aşçı",
+    "email": "emre.dogan@example.com",
+    "phone": "0532 111 22 08"
+  },
+  {
+    "id": 9,
+    "name": "Elif Aydın",
+    "title": "Vardiya Amiri",
+    "email": "elif.aydin@example.com",
+    "phone": "0532 111 22 09"
+  },
+  {
+    "id": 10,
+    "name": "Burak Koç",
+    "title": "Bulaşıkhane Sorumlusu",
+    "email": "burak.koc@example.com",
+    "phone": "0532 111 22 10"
+  }
+]
