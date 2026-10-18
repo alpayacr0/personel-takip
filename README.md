@@ -2,7 +2,7 @@
 
 Bir catering firması için geliştirilmiş, tek ekranlı bir personel takip uygulaması. Kalıcı kadro bir API'den (mock veri) çekilir, deneme sürecindeki çalışanlar ise tarayıcıda LocalStorage'da tutulur.
 
-**Canlı site:** NETLIFY_LINKI
+**Canlı site:** [Netlify Linki](https://personel-takip-alpay.netlify.app/)
 
 ## Ekran Görüntüleri
 
